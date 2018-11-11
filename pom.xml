@@ -15,7 +15,7 @@
 	
     <scm>
         <developerConnection>scm:git:https://github.com/nerdest/mvnrel.git</developerConnection>
-      <tag>testbranch</tag>
+      <tag>HEAD</tag>
   </scm>
 	
     <distributionManagement>
