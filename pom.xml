@@ -3,7 +3,7 @@
 	<groupId>com.nnerd.common</groupId>
 	<artifactId>mvnrel</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<name>maven release plugin test</name>
 	
 	<properties>
@@ -15,7 +15,7 @@
 	
     <scm>
         <developerConnection>scm:git:https://github.com/nerdest/mvnrel.git</developerConnection>
-      <tag>1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 	
     <distributionManagement>
